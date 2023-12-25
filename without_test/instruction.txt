@@ -1,0 +1,14 @@
+Hi there
+We need to complete a few stages at the beginning of the program before we can see the outcomes.
+1. First Action: 
+    open your computer's Docker Desktop.
+2. Step: 
+    On your computer, open CMD (Command Prompt).
+3. Step: 
+    Place yourself in the code directory, ...\eksperimentalni_rad\without_test.
+4. Step: 
+    Type "docker build -t python_experimental_test.\" to begin the process.
+5. Step: 
+    You may now run "docker images" to check if your image is active. If the image name appears on the screen, everything is OK and you can move further.
+6. Step: 
+    The outcomes of the command "docker run python_experimental_test" will be shown.
